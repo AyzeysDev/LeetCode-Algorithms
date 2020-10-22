@@ -1,2 +1,4 @@
 # LeetCode-Algorithms
-Solutions of LeetCode Problems (Algorithms, Databases..)
+Solutions of Problems in LeetCode (Algorithms, Databases..)
+
+Technology used: Java
